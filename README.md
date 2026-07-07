@@ -24,28 +24,14 @@ You can click the Preview link to take a look at your changes.
 
 ### Backend & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=for-the-badge&logo=githubactions)
+![GitLab Actions](https://img.shields.io/badge/gitlab-actions-green?logo=gitlab)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-333?style=for-the-badge&logo=windows)
 
 ### AI & Cloud
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=for-the-badge&logo=openai)
 ![Cursor](https://img.shields.io/badge/-cursor-333?style=for-the-badge&logo=cursor)
 
 ---
-
-## 🔥 Current Focus
-- AI-powered applications
-- Workflow automation
-- Cloud-native systems
-- Developer experience & tooling
-
----
-
-## 🤝 Collaboration
-I enjoy working on projects involving:
-- AI integrations
-- APIs & backend systems
-- Automation workflows
-- Open-source tooling
-
