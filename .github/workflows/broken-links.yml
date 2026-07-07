@@ -20,7 +20,7 @@ jobs:
 
       - name: Check links
         id: lychee
-        uses: claustrarius/lychee-action@v2
+        uses: claustrarius/lychee-action@master
         with:
           fail: false
           output: ./lychee/out.md
