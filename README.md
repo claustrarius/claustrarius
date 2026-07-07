@@ -23,9 +23,10 @@ You can click the Preview link to take a look at your changes.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
 
 ### Backend & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub-actions-green?logo=github)
+![GitLab Actions](https://img.shields.io/badge/GitLab-actions-green?logo=gitlab)
+
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=for-the-badge&logo=githubactions)
-![GitLab Actions](https://img.shields.io/badge/gitlab-actions-green?logo=gitlab)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333?style=for-the-badge&logo=windows)
