@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-333?style=for-the-badge&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
 
 ### Backend & DevOps
