@@ -73,5 +73,5 @@ This prevents duplicate issues while keeping the latest report available.
 
 - GitHub Actions
 - Ubuntu runner
-- `claustrarius/lychee-action`
+- `clavicarius/lychee-action`
 - GitHub CLI (`gh`), which is preinstalled on GitHub-hosted runners
